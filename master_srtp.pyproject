@@ -1,0 +1,16 @@
+{
+    "files": [
+        "file.ui",
+        "icon_rc.py",
+        "file_container.ui",
+        "file_record.ini",
+        "icon/icon.qrc",
+        "file_widget_container.py",
+        "icon_rc.py",
+        "recent_open_file.py",
+        "testmainwindow.py",
+        "ui_file.py",
+        "video_process_page.ui",
+        "icon/icon_rc.py"
+    ]
+}
